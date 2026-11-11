@@ -1,0 +1,9 @@
+.env
+.env.local
+*.env
+rk-data/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
